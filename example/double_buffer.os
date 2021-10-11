@@ -34,7 +34,7 @@
        Форма1_ПриПерерисовке();
 КонецПроцедуры
 
-ПодключитьВнешнююКомпоненту("C:\Users\n.ivanchenko\Documents\APPS\OneGame\src\Классы\OneScriptForms_DoubleBuffered.dll");
+ПодключитьВнешнююКомпоненту("C:\Users\Nikita\Documents\reps\OneScriptGameEngine\src\Классы\OneScriptForms_DoubleBuffered.dll");
 Ф = Новый ФормыДляОдноСкрипта();
 Форма1 = Ф.Форма();
 Форма1.ПриПерерисовке = "Форма1_ПриПерерисовке()";
